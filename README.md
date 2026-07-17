@@ -97,7 +97,7 @@ All 10 queries are available in `insights.sql`.
 
 ## 📁 Project Files
 - `Cleaned_Dataset.csv` — Raw dataset
-- `insights.sql` — All 10 SQL queries used for analysis
+- `Ecommerce_SQL_Data_Analytics.sql` — All 10 SQL queries used for analysis
 - `README.md` — Project documentation (this file)
 
 ## ✅ Conclusion
